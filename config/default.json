@@ -1,0 +1,10 @@
+{
+  "electrodeServer": {
+    "plugins": {
+      "hello": {
+        "module": "./lib/hello-plugin",
+        "options": {}
+      }
+    }
+  }
+}
